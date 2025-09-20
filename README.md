@@ -13,4 +13,4 @@ Este cuaderno de Google Colab contiene el flujo de trabajo del proyecto de detec
 
 El objetivo es mostrar los pasos seguidos para construir un prototipo funcional, documentando tanto la metodología como los resultados obtenidos.
 
-DATASET: https://github.com/robvalec/tfm_viu_deepfake_detector/releases
+DATASET Y MODELO ENTRENADO: https://github.com/robvalec/tfm_viu_deepfake_detector/releases
