@@ -1,5 +1,3 @@
-# tfm_viu_deepfake_detector
-
 # **Trabajo de Fin de Máster**
 ## **Máster de Inteligencia Artificial**
 ## **Universidad Internacional de Valencia**
